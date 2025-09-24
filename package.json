@@ -1,0 +1,25 @@
+{
+  "name": "college_note_portcol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suwam/college_note_protal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/suwam/college_note_protal/issues"
+  },
+  "homepage": "https://github.com/suwam/college_note_protal#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.2"
+  }
+}
